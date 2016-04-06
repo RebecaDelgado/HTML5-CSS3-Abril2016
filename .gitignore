@@ -1,0 +1,8 @@
+# OS X Files
+.DS_Store
+
+# Java bin files
+# *.class
+
+# archivos con contraseñas
+# para carpetas poner nombre de carpeta img/
